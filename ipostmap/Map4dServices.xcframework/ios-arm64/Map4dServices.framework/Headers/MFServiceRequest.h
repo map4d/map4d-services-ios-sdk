@@ -22,7 +22,7 @@ typedef NS_ENUM(NSUInteger, MFRequestMethod) {
 /* HTTP request method. Default is GET */
 @property(nonatomic) MFRequestMethod method;
 
-/* Default is "https://api.map4d.vn" */
+/* Default is "https://api.ipostmap.vn" */
 @property(nonatomic, copy, nonnull) NSString *baseURL;
 
 /* Relative path, e.g: "/sdk/autosuggest" */

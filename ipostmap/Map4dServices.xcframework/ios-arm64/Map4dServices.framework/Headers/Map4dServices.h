@@ -1,9 +1,9 @@
 //
-//  Map4dServices.h
-//  Map4dServices SDK for iOS
-//  Version 2.5.0
+//  iPostMapServices.h
+//  iPostMap Services SDK for iOS
+//  Version 1.0.0 (2.5.0)
 //
-//  Copyright (c) 2025 IOTLink LLC.
+//  Copyright (c) 2026 Vietnam Post Corporation.
 //
 
 #import <Foundation/Foundation.h>
