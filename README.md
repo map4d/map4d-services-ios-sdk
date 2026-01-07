@@ -1,9 +1,9 @@
 # Map4D Services SDK
 [![map4d](https://img.shields.io/badge/map4d-services-orange)](https://map4d.vn/)
-[![platform](https://img.shields.io/cocoapods/p/Map4dServices)](https://www.apple.com/ios/)
-[![cocoapods](https://img.shields.io/cocoapods/v/Map4dServices)](https://cocoapods.org/pods/Map4dServices)
+[![platform](https://img.shields.io/cocoapods/p/iPostMapServices)](https://www.apple.com/ios/)
+[![cocoapods](https://img.shields.io/cocoapods/v/iPostMapServices)](https://cocoapods.org/pods/iPostMapServices)
 
-> Map4D Services SDK brings the [Map4D API Services](https://docs.map4d.vn/map4d-service/api/) for your iOS Application
+> iPostMap Services SDK brings the [iPostMap API Services](https://docs.map4d.vn/map4d-service/api/) for your iOS Application
 
 ## Installation
 
@@ -18,7 +18,7 @@ pod repo update
 2. Add to Podfile
 
 ```shell
-pod 'Map4dServices'
+pod 'iPostMapServices'
 ```
 
 ## Provide access key
@@ -66,4 +66,4 @@ MFPlacesService* service = [[MFPlacesService alloc] init];
 License
 -------
 
-Copyright (C) 2022 IOT Link Ltd. All Rights Reserved.
+Copyright (C) 2026 Vietnam Post Corporation. All Rights Reserved.
