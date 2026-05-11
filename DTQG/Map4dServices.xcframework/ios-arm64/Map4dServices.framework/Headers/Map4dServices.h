@@ -3,7 +3,7 @@
 //  Map4dServices SDK for iOS
 //  Version 2.5.0
 //
-//  Copyright (c) 2025 IOTLink LLC.
+//  Copyright (c) 2026 IOTLink LLC.
 //
 
 #import <Foundation/Foundation.h>

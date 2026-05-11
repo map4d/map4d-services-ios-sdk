@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/MFServiceRequest.h</key>
 		<data>
-		mwnnSVOVaypHY3fOEqnplhqBYXA=
+		+NmOj8D5zM0OeWv6yGafObCpz7g=
 		</data>
 		<key>Headers/MFServiceSettings.h</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Headers/Map4dServices.h</key>
 		<data>
-		+djaAmXMJlw3768lkazeKqCgTZw=
+		FFF3Gvv91g0KluN7iTek9ri2EvE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -353,7 +353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2fsQh07uzLe9D+E5TgANXtHsfWcuma72bBG1T2rV+nk=
+			Ss6bCrKyeLqQVSgp0uxQehyMt4v4f/wbe0tojkGmHkY=
 			</data>
 		</dict>
 		<key>Headers/MFServiceSettings.h</key>
@@ -430,7 +430,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EM8/FPReYeFrPdgpchPCuSwSsPuhv2y/RpPMipDQWfE=
+			k0LKqeGmI1HotTYQmizfOcJzbNqgft8S6C9FhqsPusk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,9 +1,9 @@
 # Map4D Services SDK
 [![map4d](https://img.shields.io/badge/map4d-services-orange)](https://map4d.vn/)
-[![platform](https://img.shields.io/cocoapods/p/Map4dServices)](https://www.apple.com/ios/)
-[![cocoapods](https://img.shields.io/cocoapods/v/Map4dServices)](https://cocoapods.org/pods/Map4dServices)
+[![platform](https://img.shields.io/cocoapods/p/Map4dServicesDTQG)](https://www.apple.com/ios/)
+[![cocoapods](https://img.shields.io/cocoapods/v/Map4dServicesDTQG)](https://cocoapods.org/pods/Map4dServicesDTQG)
 
-> Map4D Services SDK brings the [Map4D API Services](https://api.map4d.vn/sdk/docs/index.html) for your iOS Application
+> Map4D Services DTQG SDK brings the [Map4D API DTQG Services](https://api.map4d.vn/sdk/docs/index.html) for your iOS Application
 
 ## Installation
 
@@ -18,7 +18,7 @@ pod repo update
 2. Add to Podfile
 
 ```shell
-pod 'Map4dServices'
+pod 'Map4dServicesDTQG'
 ```
 
 ## Provide access key
