@@ -3,7 +3,7 @@
 [![platform](https://img.shields.io/cocoapods/p/Map4dServices)](https://www.apple.com/ios/)
 [![cocoapods](https://img.shields.io/cocoapods/v/Map4dServices)](https://cocoapods.org/pods/Map4dServices)
 
-> Map4D Services SDK brings the [Map4D API Services](https://docs.map4d.vn/map4d-service/api/) for your iOS Application
+> Map4D Services SDK brings the [Map4D API Services](https://api.map4d.vn/sdk/docs/index.html) for your iOS Application
 
 ## Installation
 
@@ -34,8 +34,7 @@ Edit `Info.plist` and add Map4d services access key
 
 Get place detail
 
-<!-- tabs:start -->
-#### ** Swift **
+### Swift
 
 ```swift
 let service = MFPlacesService()
@@ -48,7 +47,7 @@ service.fetchPlaceDetail(withPlaceId: "60dd3850f81cb14bc880ed52") { result, erro
 }
 ```
 
-#### ** Objective C **
+### Objective-C
 
 ```objc
 MFPlacesService* service = [[MFPlacesService alloc] init];
@@ -66,4 +65,4 @@ MFPlacesService* service = [[MFPlacesService alloc] init];
 License
 -------
 
-Copyright (C) 2022 IOT Link Ltd. All Rights Reserved.
+Copyright (C) 2026 IOT Link Ltd. All Rights Reserved.
