@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name     = 'Map4dServices'
-    s.version  = '2.5.0'
+    s.version  = '2.6.0'
     s.summary  = 'Map4D Services SDK for iOS'
     s.homepage = 'https://map4d.vn'
 
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     }
 
     s.platform = :ios, '12.0'
-    s.source   = { :git => 'https://github.com/map4d/map4d-services-ios-sdk.git', :tag => s.version.to_s }
+    s.source   = { :http => "https://github.com/map4d/map4d-services-ios-sdk/releases/download/#{s.version}/Map4dServices.xcframework.zip" }
 
-    s.ios.vendored_frameworks = 'sdk/Map4dServices.xcframework'
+    s.ios.vendored_frameworks = 'Map4dServices.xcframework'
 end
