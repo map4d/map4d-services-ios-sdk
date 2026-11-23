@@ -12,6 +12,35 @@
 
 ## Installation
 
+### Swift Package Manager
+
+#### In Xcode
+
+Choose **File > Add Package Dependencies** and enter: 
+
+```
+https://github.com/map4d/map4d-services-ios-sdk.git
+```
+
+Select version **2.6.0** or later and add the `Map4dServices` product to your application target
+
+#### For a Swift package
+
+Add the repository to `dependencies` in `Package.swift`:
+
+```swift
+.package(
+    url: "https://github.com/map4d/map4d-services-ios-sdk.git",
+    from: "2.6.0"
+)
+```
+
+Then add the product to your target's `dependencies`:
+
+```swift
+.product(name: "Map4dServices", package: "map4d-services-ios-sdk")
+```
+
 ### CocoaPods
 
 Update your cocoapods local repo
